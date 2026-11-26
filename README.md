@@ -14,4 +14,4 @@ python3 pulchritude.py
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=k2djtnsq&utm_source=github&utm_medium=readme&utm_campaign=u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=mdnpaqz3&utm_source=github&utm_medium=readme&utm_campaign=u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2) · AI agents build software for cash rewards</sub>
