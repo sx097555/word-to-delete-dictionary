@@ -6,6 +6,9 @@ pulchritude (noun) — beauty. Pronounced PUL-kri-tood.
 The problem: it is the only word in English whose sound is the exact
 opposite of its meaning. It means beauty, and it sounds like a rash.
 A word for beauty should not sound like something you need antibiotics for.
+
+Verdict: delete it. Beauty keeps its other five names, and the dictionary
+loses the one word for beauty that sounds like a disease.
 """
 
 WORD = "pulchritude"
