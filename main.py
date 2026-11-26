@@ -12,7 +12,8 @@ loses the one word for beauty that sounds like a disease.
 """
 
 WORD = "pulchritude"
-PRONUNCIATION = "PUL-kri-tood"DEFINITION = "beauty"
+PRONUNCIATION = "PUL-kri-tood"
+DEFINITION = "beauty"
 
 # What the word sounds like, in everyday sentences.
 SOUND_ALIKES = [
@@ -23,8 +24,7 @@ SOUND_ALIKES = [
     ("a medieval affliction",
      "He died of pulchritude in the winter of 1348."),
     ("a prescription drug",
-     "Ask your doctor if Pulchritude is right for you. Side effects may
-include beauty."),
+     "Ask your doctor if Pulchritude is right for you. Side effects may include beauty."),
 ]
 
 # Words we already have for the same meaning. None of them sounds like a rash.
@@ -48,13 +48,15 @@ def redundancy():
     print("  None of them sounds like a rash.")
     print()
 
+
 def verdict():
     """The verdict: delete it, and beauty loses nothing."""
     print("VERDICT: DELETE")
     print(f"  The dictionary keeps one word for beauty that sounds like")
-    print(f"  a disease. Strike 's{WORD}'. Beauty keeps its other")
+    print(f"  a disease. Strike '{WORD}'. Beauty keeps its other")
     print(f"  five names, and nobody has to say 'pulchritude' at a")
     print(f"  dinner party ever again.")
+
 
 def main():
     print(f"THE WORD: {WORD}")
